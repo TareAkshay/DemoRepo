@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4035" started-at="2022-09-10T04:06:09Z" finished-at="2022-09-10T04:06:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4035" started-at="2022-09-10T04:06:09Z" finished-at="2022-09-10T04:06:13Z">
+      <class name="com.abt.tests.LoginTest">
+        <test-method status="PASS" signature="TestLoginPage()[pri:0, instance:com.abt.tests.LoginTest@4ae3c1cd]" name="TestLoginPage" duration-ms="3976" started-at="2022-09-10T04:06:09Z" finished-at="2022-09-10T04:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginPage -->
+      </class> <!-- com.abt.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
